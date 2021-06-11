@@ -2,7 +2,7 @@
 
 Integrantes:
 
-- Felipe Bastos
+- Felipe Bastos Xavier
 - 312181015
 
 <h3 align="center">NPM</h3>
